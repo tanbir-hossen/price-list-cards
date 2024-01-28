@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "type": "Basic",
+    "price": 50,
+    "features": ["Gym access", "Limited classes"]
+  },
+  {
+    "id": 2,
+    "type": "Standard",
+    "price": 80,
+    "features": ["Gym access", "Full classes", "Personalized plan"]
+  },
+  {
+    "id": 3,
+    "type": "Premium",
+    "price": 120,
+    "features": [
+      "Gym access",
+      "Full classes",
+      "Personalized plan",
+      "Spa access"
+    ]
+  }
+]
